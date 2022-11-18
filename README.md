@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Divya P
 - 👀 I’m interested in ... Data Science
 - 🌱 I’m currently learning ... Data Science
-- 
-- 
+
 
 <!---
 pdivya-mca/pdivya-mca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
